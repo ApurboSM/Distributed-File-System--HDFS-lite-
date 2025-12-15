@@ -1,4 +1,4 @@
-# Task 23: Distributed File System (HDFS-lite)
+#  Distributed File System (HDFS-lite)
 
 A simplified implementation of HDFS (Hadoop Distributed File System) demonstrating distributed storage, chunk replication, failure handling, and metadata management.
 
